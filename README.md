@@ -13,7 +13,7 @@
 
 ### Blogs posts
 [Creating an editable dynamic json table](https://dev.to/sajrashid/creating-a-editable-dynamic-json-table-4686)
-[css-hover-style-all-you-re-buttons-links in one line(https://dev.to/sajrashid/css-hover-style-all-you-re-buttons-links-succinctly-496e)
+[css-hover-style-all-you-re-buttons-links in one line](https://dev.to/sajrashid/css-hover-style-all-you-re-buttons-links-succinctly-496e)
 
 
 
