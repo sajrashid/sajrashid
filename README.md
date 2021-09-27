@@ -27,7 +27,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajrashid&show_icons=true&locale=en" alt="sajrashid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajrashid&&count_private=true&show_icons=true&locale=en" alt="sajrashid" /></p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
