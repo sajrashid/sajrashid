@@ -1,33 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sajid Rashid</h1>
-<h3 align="center">An enthusiastic full-stack developer from the UK</h3>
-
-- 👯 I’m looking to collaborate on [react-dj-table](https://github.com/sajrashid/React-Dynamic-Json-Table/graphs/traffic)
-
-- 📝 I regularly write articles on [https://dev.to/sajrashid](https://dev.to/sajrashid)
-
-- 💬 Ask me about **React, C#, Rest Api's**
-
-### React-dj-table [doc's](https://react-dj-table.netlify.app/)
 
 
-
-### Blogs posts
-[Creating an editable dynamic json table](https://dev.to/sajrashid/creating-a-editable-dynamic-json-table-4686)
-[css-hover-style-all-you-re-buttons-links in one line](https://dev.to/sajrashid/css-hover-style-all-you-re-buttons-links-succinctly-496e)
-
-
-
-
-
-<p align="left">
-<a href="https://codepen.io/sajrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/sajrashid/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sajrashid" height="30" width="40" /></a>
-<a href="https://dev.to/sajrashid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sajrashid" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sajrashid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sajrashid" height="30" width="40" /></a>
-</p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajrashid&&count_private=true&show_icons=true&locale=en" alt="sajrashid" /></p>
 
 
 
